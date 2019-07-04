@@ -1,0 +1,4 @@
+Bundle-Name: logging-activator
+Bundle-SymbolicName: logging.activator
+Bundle-Version: 1.0.0
+Bundle-Activator: com.mw.logging.activator.LoggingActivator
